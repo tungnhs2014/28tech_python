@@ -1,1 +1,1 @@
-# 28tech_python
+# Learning and exercises of 28tech python course
